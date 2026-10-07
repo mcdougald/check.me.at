@@ -7,7 +7,7 @@
 
 # check.me.at
 
-One developer's lint conventions, hosted as an experiment.
+Linting conventions, hosted by me.
 
 check.me.at documents the house conventions enforced across ESLint, Biome, and `me-at check` (the monorepo's own workspace checker). Each rule in the shared ESLint 9 flat config gets its own page with its reasoning, a before and after, and the carve-outs that keep it switched on. It is for anyone curious why a codebase is shaped the way it is, and for contributors who want the reasoning behind a red lint run.
 
@@ -43,7 +43,7 @@ check.me.at documents the house conventions enforced across ESLint, Biome, and `
 
 ## Part of the me.at family
 
-check.me.at is one of the [`*.me.at`](https://me.at) apps by Trevor McDougald. They share one design system, account, and app shell. Development happens in a private monorepo; this repository is the project's public-facing home.
+check.me.at is one of my [`*.me.at`](https://me.at) apps. They share one design system, account, and app shell. Development happens in a private monorepo; this repository is the project's public-facing home.
 
 ## License
 
