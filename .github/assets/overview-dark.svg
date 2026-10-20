@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="281" viewBox="0 0 880 281" role="img" aria-label="check.me.at at a glance: One page per rule, Who enforces it, Grouped by what it guards, Config, read from source">
+<rect x="0.5" y="0.5" width="879" height="280" rx="12" fill="#0a0a0a" stroke="#262626"/>
+<rect x="24" y="24" width="196" height="233" rx="10" fill="#171717" stroke="#262626"/>
+<text x="44" y="60" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#525252">01</text>
+<line x1="72" y1="56" x2="200" y2="56" stroke="#404040" stroke-width="1"/>
+<text x="44" y="98" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#fafafa" font-weight="600"><tspan x="44" dy="0">One page per</tspan><tspan x="44" dy="22">rule</tspan></text>
+<text x="44" y="148" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#a3a3a3"><tspan x="44" dy="0">Rationale, before and</tspan><tspan x="44" dy="21">after pairs, options,</tspan><tspan x="44" dy="21">when not to use it,</tspan><tspan x="44" dy="21">related rules and</tspan><tspan x="44" dy="21">version history.</tspan></text>
+<rect x="236" y="24" width="196" height="233" rx="10" fill="#171717" stroke="#262626"/>
+<text x="256" y="60" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#525252">02</text>
+<line x1="284" y1="56" x2="412" y2="56" stroke="#404040" stroke-width="1"/>
+<text x="256" y="98" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#fafafa" font-weight="600"><tspan x="256" dy="0">Who enforces it</tspan></text>
+<text x="256" y="126" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#a3a3a3"><tspan x="256" dy="0">Each rule names the</tspan><tspan x="256" dy="21">engine that runs it</tspan><tspan x="256" dy="21">in CI, and says so</tspan><tspan x="256" dy="21">plainly when nothing</tspan><tspan x="256" dy="21">does.</tspan></text>
+<rect x="448" y="24" width="196" height="233" rx="10" fill="#171717" stroke="#262626"/>
+<text x="468" y="60" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#525252">03</text>
+<line x1="496" y1="56" x2="624" y2="56" stroke="#404040" stroke-width="1"/>
+<text x="468" y="98" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#fafafa" font-weight="600"><tspan x="468" dy="0">Grouped by what</tspan><tspan x="468" dy="22">it guards</tspan></text>
+<text x="468" y="148" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#a3a3a3"><tspan x="468" dy="0">The index groups</tspan><tspan x="468" dy="21">every rule by the</tspan><tspan x="468" dy="21">axis it protects,</tspan><tspan x="468" dy="21">with totals counted</tspan><tspan x="468" dy="21">from the rule pages.</tspan></text>
+<rect x="660" y="24" width="196" height="233" rx="10" fill="#171717" stroke="#262626"/>
+<text x="680" y="60" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#525252">04</text>
+<line x1="708" y1="56" x2="836" y2="56" stroke="#404040" stroke-width="1"/>
+<text x="680" y="98" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#fafafa" font-weight="600"><tspan x="680" dy="0">Config, read</tspan><tspan x="680" dy="22">from source</tspan></text>
+<text x="680" y="148" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#a3a3a3"><tspan x="680" dy="0">A matrix of every</tspan><tspan x="680" dy="21">rule the flat config</tspan><tspan x="680" dy="21">sets and its severity</tspan><tspan x="680" dy="21">per block, read at</tspan><tspan x="680" dy="21">build time.</tspan></text>
+</svg>

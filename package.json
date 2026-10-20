@@ -1,0 +1,7 @@
+{
+  "name": "check-me-at",
+  "description": "Docs for my ESLint flat config, Biome setup, and the me-at check rules",
+  "homepage": "https://check.me.at",
+  "private": false,
+  "license": "SEE LICENSE IN LICENSE"
+}
