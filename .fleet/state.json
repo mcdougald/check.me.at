@@ -2,7 +2,7 @@
   "domain": "check.me.at",
   "network": "me.at",
   "generator": "@repo/app-shell/repo-fleet",
-  "contentHash": "18e89dc96960bd9cb558dc77b6a099efb08a47928d6e1e932f413e0f728da0fd",
+  "contentHash": "2cafb8fdd9d6d5f485a79542ee35304b04699d1e8b09070d0fbc4ddbb6d9d303",
   "lastSyncedAt": "2026-10-20",
   "paths": [
     ".github/CODEOWNERS",
